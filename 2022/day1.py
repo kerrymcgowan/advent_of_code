@@ -2,7 +2,7 @@
 
 ## Part 1, get the highest calorie total per elf
 
-# Read in measurements file
+# Read in calorie file
 input_file = open("./day1_input.txt", "r")
 calories_input = input_file.read()
 

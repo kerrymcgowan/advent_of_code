@@ -2,7 +2,7 @@
 
 ## Part 1, calculate game total
 
-# Read in measurements file
+# Read in game file
 input_file = open("./day2_input.txt", "r")
 game_input = input_file.read()
 
